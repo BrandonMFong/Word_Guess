@@ -1,0 +1,10 @@
+B:\COLLEGE\19_20\Fall_19\CompE_361\Projects\Project_2\Project2_Word_Guess\bin\Debug\Project2_Word_Guess.exe.config
+B:\COLLEGE\19_20\Fall_19\CompE_361\Projects\Project_2\Project2_Word_Guess\bin\Debug\Project2_Word_Guess.exe
+B:\COLLEGE\19_20\Fall_19\CompE_361\Projects\Project_2\Project2_Word_Guess\bin\Debug\Project2_Word_Guess.pdb
+B:\COLLEGE\19_20\Fall_19\CompE_361\Projects\Project_2\Project2_Word_Guess\obj\Debug\Project2_Word_Guess.csprojAssemblyReference.cache
+B:\COLLEGE\19_20\Fall_19\CompE_361\Projects\Project_2\Project2_Word_Guess\obj\Debug\Project2_Word_Guess.Form1.resources
+B:\COLLEGE\19_20\Fall_19\CompE_361\Projects\Project_2\Project2_Word_Guess\obj\Debug\Project2_Word_Guess.Properties.Resources.resources
+B:\COLLEGE\19_20\Fall_19\CompE_361\Projects\Project_2\Project2_Word_Guess\obj\Debug\Project2_Word_Guess.csproj.GenerateResource.cache
+B:\COLLEGE\19_20\Fall_19\CompE_361\Projects\Project_2\Project2_Word_Guess\obj\Debug\Project2_Word_Guess.exe
+B:\COLLEGE\19_20\Fall_19\CompE_361\Projects\Project_2\Project2_Word_Guess\obj\Debug\Project2_Word_Guess.pdb
+B:\COLLEGE\19_20\Fall_19\CompE_361\Projects\Project_2\Project2_Word_Guess\obj\Debug\Project2_Word_Guess.csproj.CoreCompileInputs.cache
